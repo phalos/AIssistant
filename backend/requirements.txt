@@ -1,0 +1,19 @@
+# API Framework
+fastapi==0.95.1
+uvicorn==0.22.0
+python-dotenv==1.0.0
+pydantic==1.10.7
+
+# OpenAI Integration
+openai==0.27.6
+
+# Audio Processing
+SpeechRecognition==3.10.0
+whisper==1.1.10
+
+# Screen Capture
+opencv-python==4.7.0.72
+numpy==1.24.3
+
+# Memory Storage
+sqlite3==3.42.0 
